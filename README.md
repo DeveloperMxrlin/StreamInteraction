@@ -30,3 +30,12 @@ More, in depth, questions? Fear no more, and join our discord at [https://discor
 
 Please join our [discord](https://discord.gg/fQ3nGNafuQ) aswell if you found a bug and report it.
 
+## Dependencies
+
+Used dependencies for this plugin are:
+* [TikTokLiveJava](https://github.com/jwdeveloper/TikTokLiveJava/tree/master) and its needed dependencies [GSON](https://github.com/google/gson), [Protobuf Java](https://protobuf.dev), [slf4j](https://www.slf4j.org), [Java Websocket](https://github.com/TooTallNate/Java-WebSocket/tree/master), [TestNG](https://testng.org)
+
+Taken inspiration from: 
+* [YoutubeLiveChat](https://github.com/kusaanko/YouTubeLiveChat)
+* [Libby](https://github.com/AlessioDP/libby)
+

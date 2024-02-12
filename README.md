@@ -16,7 +16,7 @@ Take engagement to the next level by enabling your viewers to participate active
 
 ## Installation
 
-1. Purchase the StreamInteraction Plugin at (...) and download it
+1. Purchase the StreamInteraction Plugin at SpigotMC and download it
 2. Place the JAR file in the plugins folder of your Spigot server.
 3. Restart your server.
 
@@ -24,7 +24,7 @@ For further informations, consider visiting the [wiki](https://github.com/Develo
 
 ## Support
 
-Many questions get solved by having a look at the [wiki].
+Many questions get solved by having a look at the [wiki](https://github.com/DeveloperMxrlin/StreamInteraction/wiki).
 
 More, in depth, questions? Fear no more, and join our discord at [https://discord.gg/fQ3nGNafuQ](https://discord.gg/fQ3nGNafuQ).
 
